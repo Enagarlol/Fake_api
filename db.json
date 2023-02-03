@@ -1,0 +1,79 @@
+{
+  "Policard": [
+    {
+      "id": 1,
+      "nombre": "Enrique",
+      "apellidos": "Aguilar Armenta",
+      "correo": "enrique@gmail.com",
+      "contraseña": "enagartroll",
+      "matricula": 203418,
+      "cuatrimestre": 9,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software",
+      "alergia": "huevo",
+      "alergia_extra": "ninguno",
+      "contacto_de_emergencia": "Cristiano Ronaldo",
+      "numero_de_emergencia": 9622851417
+    },
+    {
+      "id": 2,
+      "nombre": "Cesar Eduardo",
+      "apellidos": "Zepeda Melendez",
+      "correo": "semasturba@gmail.com",
+      "contraseña": "senuezPro",
+      "matricula": 203038,
+      "cuatrimestre": 7,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software",
+      "alergia": "hueva de pescado",
+      "alergia_extra": "league of legends",
+      "contacto_de_emergencia": "Papa",
+      "numero_de_emergencia": 9643282391
+    },
+    {
+      "id": 3,
+      "nombre": "Eduardo Artemio",
+      "apellidos": "Flores de Leona",
+      "correo": "temo17x@gmail.com",
+      "contraseña": "CaldodePuta1",
+      "matricula": 203039,
+      "cuatrimestre": 4,
+      "grupo": "B",
+      "carrera": "Ingenieria en Pajas",
+      "alergia": "un negro",
+      "alergia_extra": "dos negros",
+      "contacto_de_emergencia": "Su mama el semasturba",
+      "numero_de_emergencia": 9621110001
+    },
+    {
+      "id": 4,
+      "nombre": "Jose Angel",
+      "apellidos": "Arjona Matheis",
+      "correo": "chepe69@gmail.com",
+      "contraseña": "chepe69",
+      "matricula": 203410,
+      "cuatrimestre": 9,
+      "grupo": "A",
+      "carrera": "Ingenieria en Software",
+      "alergia": "el lol",
+      "alergia_extra": "ninguno",
+      "contacto_de_emergencia": "Cr7",
+      "numero_de_emergencia": 9622939210
+    },
+    {
+      "id": 5,
+      "nombre": "Mario Alejandra",
+      "apellidos": "Rosales Muñoz",
+      "correo": "lepajarre@gmail.com",
+      "contraseña": "fullstack69",
+      "matricula": 203021,
+      "cuatrimestre": 1,
+      "grupo": "B",
+      "carrera": "Ingenieria en Mecatronica",
+      "alergia": "metidota de riata",
+      "alergia_extra": "ninguno",
+      "contacto_de_emergencia": "Mi hermana",
+      "numero_de_emergencia": 9622294201
+    }
+  ]
+}
